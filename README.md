@@ -1,6 +1,12 @@
 # AI小火箭www.ai-rocket.cc
 
+<br>
 
+![icon](https://www.ai-rocket.cc/assets/img/ai-whistle-horizon-02.png)
+
+<br>
+
+<br>
 
 # 介绍
 
